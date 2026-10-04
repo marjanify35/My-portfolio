@@ -74,4 +74,4 @@ footer{padding:2rem 0 3rem;text-align:center;color:var(--muted);font-size:.92rem
 .hero,.grid2,.skills{grid-template-columns:1fr}.hero{padding-top:2rem}
 .stats{grid-template-columns:1fr 1fr}.stat:nth-child(3){border-left:0}.stat:nth-child(n+3){border-top:1px solid var(--line)}
 .nav a:not(.logo){display:none}.contact{padding:1.8rem 1.2rem}
-}
+} 
